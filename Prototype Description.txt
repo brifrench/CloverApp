@@ -1,1 +1,0 @@
-﻿For our prototype we are going to create a Clover application that can use an eventhandler to listen for when the register app is opened and pop a notification to the user. The notification will contain data on the current user of the system. We will also show that we can create a frontend database to store user preferences in either SQL or AWS.
